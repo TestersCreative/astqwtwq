@@ -1,0 +1,32 @@
+{
+  "name": "Deag",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Npm",
+    "Zhycorp"
+  ],
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "gamedig": "^2.0.27",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.4.1"
+  },
+  "optionalDependencies": {
+    "@discordjs/uws": "^11.149.1"
+  }
+}
